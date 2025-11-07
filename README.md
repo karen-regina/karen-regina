@@ -5,11 +5,7 @@
 
 ##
 
-Aprendendo React, PW2.
-<div style="display: inline_block"><br>
-  <img align="center" alt="Karen-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Karen-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4FABF9&background=1C7CFF00&width=435&lines=Aprendendo+React%2C+PW2+e+SQL.)](https://git.io/typing-svg)
 
 ##
 
