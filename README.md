@@ -6,12 +6,14 @@
 ##
 
 Aprendendo React, PW2 e SQL.
-
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Karen-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Karen-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </div>
+
+##
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=karen-regina%20&theme=holi-theme&hide_border=true&locale=pt_BR&short_numbers=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 <!--
 **karen-regina/karen-regina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
