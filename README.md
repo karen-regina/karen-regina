@@ -1,5 +1,7 @@
-## Hi there 👋
+## Oii, eu sou a Karen, estudante de DS.
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karen-regina&show_icons=true&bg_color=00000000)
 <!--
 **karen-regina/karen-regina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
