@@ -1,7 +1,7 @@
 ## Oii, eu sou a Karen, estudante de DS.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karen-regina&show_icons=true&bg_color=00000000)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=karen-regina&hide_progress=true&langs_count=4&theme=blue_navy)](https://github-stats-extended.vercel.app/api/top-langs?username=karen-regina&hide_progress=true&langs_count=4&theme=blue_navy)
 
 ##
 
